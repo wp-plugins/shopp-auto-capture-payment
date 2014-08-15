@@ -9,15 +9,15 @@ Requires at least: 2.0.2
 Tested up to: 3.9
 Stable tag: 0.1
 
-Add-on for <a href="http://wordpress.org/plugins/shopp/" target="_blank">Shopp e-commerce</a> plugin to auto capture payments.
+Add-on for [Shopp e-commerce](http://wordpress.org/plugins/shopp/) plugin to auto capture payments.
 
 == Description ==
 
 Warning!
 
 Visa and MasterCard rules require that merchants only authorize payments for delayed fullfillment orders
-until the order ships out. In other words, merchants aren’t supposed to capture the payment until the
-shipment is handed over to the shipping carrier. It isn’t illegal to authorize and capture payments
+until the order ships out. In other words, merchants are not supposed to capture the payment until the
+shipment is handed over to the shipping carrier. It is not illegal to authorize and capture payments
 before shipping. But it puts both the merchant and the customer at higher risk. 
 For this reason, to protect the merchant, Shopp uses authorization-only payment processing for shipped orders.
 
