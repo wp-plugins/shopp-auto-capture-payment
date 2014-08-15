@@ -9,7 +9,7 @@ Requires at least: 2.0.2
 Tested up to: 3.9
 Stable tag: 0.1
 
-Add-on for [Shopp e-commerce](http://wordpress.org/plugins/shopp/) plugin to auto capture payments.
+Add-on for <a href="http://wordpress.org/plugins/shopp/">Shopp e-commerce</a> plugin to auto capture payments.
 
 == Description ==
 
