@@ -3,6 +3,7 @@ Plugin Name: Shopp Auto Capture Payment
 Plugin URI: http://www.shoppdeveloper.com/
 Author: Shoppdeveloper.com Team
 Author URI: http://www.shoppdeveloper.com/
+Contributors: Shoppdeveloper.com
 Tags: shopp, auto-capture, ecommerce, webshop, payment
 Requires at least: 2.0.2
 Tested up to: 3.9
