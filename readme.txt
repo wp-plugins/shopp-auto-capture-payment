@@ -1,4 +1,4 @@
-=== Shopp Auto Capture Payment (sacp) ===
+=== Shopp Auto Capture Payment ===
 Plugin Name: Shopp Auto Capture Payment
 Plugin URI: http://www.shoppdeveloper.com/
 Author: Shoppdeveloper.com Team
