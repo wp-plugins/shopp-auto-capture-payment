@@ -4,7 +4,7 @@ Donate link: http://www.shoppdeveloper.com/
 Contributors : Shoppdeveloper.com
 Tags: shopp,auto-capture,ecommerce,webshop
 Requires at least: 2.0.2
-Tested up to: 3.9
+Tested up to: 4.3
 Stable tag: 0.1.1
 
 Add-on for Shopp e-commerce plug-in to auto capture payments.
