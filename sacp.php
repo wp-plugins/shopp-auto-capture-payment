@@ -3,7 +3,7 @@
 * Plugin Name: Shopp Auto Capture Payment
 * Plugin URI: http://www.shoppdeveloper.com/shopp-auto-capture-payment
 * Description: Add-on for Shopp e-commerce plugin to auto capture payments.
-* Author: Shoppdeveloper.com Team
+* Author: Shoppdeveloper.com
 * Author URI: http://www.shoppdeveloper.com
 * Version: 0.1.1
 */
