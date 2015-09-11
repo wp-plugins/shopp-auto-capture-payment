@@ -1,7 +1,6 @@
 === Shopp Auto Capture Payment ===
 Author: Shoppdeveloper.com
 Donate link: http://www.shoppdeveloper.com/
-Contributors : Shoppdeveloper.com
 Tags: shopp,auto-capture,ecommerce,webshop
 Requires at least: 2.0.2
 Tested up to: 4.3
